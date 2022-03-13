@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AltWav Food Recipe</string>
+
+    <string name="food_recipes">Food Recipes</string>
+    <string name="add_button">+ Add Recipe</string>
+
+    <string-array name="category">
+        <item>Main Course</item>
+        <item>Appetizer</item>
+        <item>Dessert</item>
+        <item>Soup</item>
+    </string-array>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="finish_button">Finish</string>
+</resources>
